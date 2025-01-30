@@ -1,0 +1,9 @@
+body{margin: 0%;}
+.container{ height: 600px; display: flex;align-items: center; background-color:cornflowerblue;padding: 4rem;
+text-align: center;}
+
+.card1{background-color: coral;}
+.card2{background-color: aquamarine;}
+.card3{background-color: rgb(173, 45, 152);}
+.lern{border: 2px solid black ; border-radius: 40%;background-color: aliceblue;overflow: hidden;}
+p{margin: 1rem;}
